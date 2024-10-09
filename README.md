@@ -1,9 +1,9 @@
 # TrackMyBand
 Still a work in progress! Source code and demo will release soon!
 ## Description:
-A website and mobile app for large band/orchestra leaders to track attendance for rehearsals and concerts.
+A web app for large band/orchestra leaders to track attendance for rehearsals and concerts.
 ## Used:
-React Native + ExpressJS + MySQL
+React JS + ExpressJS + MySQL
 
 Designed the solution using use cases of different ensemble leaders and band members. 
 Built a secure authentication system using MySQL, SHA-256 and JSON Web Tokens. 
