@@ -1,5 +1,5 @@
 # TrackMyBand
-Still a work in progress! Source code and demo will release soon!
+Source Code Private but photos are below
 ## Description:
 A web app for large band/orchestra leaders to track attendance for rehearsals and concerts.
 ## Used:
